@@ -8,6 +8,8 @@ because every page I turn is a step closer to a better version of myself.
 Here is a list of books that I've read
 so far, and many more are waiting for me in my reading list
 
+[goodreads profile](https://www.goodreads.com/user/show/199576984-amanpreet-singh)
+
 <table>
   <tr>
     <td align="center" width="25%">
@@ -697,7 +699,11 @@ so far, and many more are waiting for me in my reading list
       <b>Are You With Me?</b><br>
       <sub>Kouri Richins</sub>
     </td>
-    <td></td>
+    <td align="center" width="25%">
+      <img src="booksImages/126.png" style="width:150px;height:200px;object-fit:cover;"><br>
+      <b>Stolen Focus</b><br>
+      <sub>Johann Hari</sub>
+    </td>
     <td></td>
     <td></td>
   </tr>
