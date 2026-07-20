@@ -6,11 +6,11 @@ because every page I turn is a step closer to a better version of myself.
 <br />
 
 Here is a list of books that I've read
-so far, and many more are waiting for me in my reading list
-
-[reading list](https://docs.google.com/spreadsheets/d/1gmrEc9gaaHpKJeFolC2IxEj6Oj-5aKEZAE0MTIZAo5c/edit?usp=sharing)
+so far, and many more are waiting for me in my [reading list](https://docs.google.com/spreadsheets/d/1gmrEc9gaaHpKJeFolC2IxEj6Oj-5aKEZAE0MTIZAo5c/edit?usp=sharing)
 
 [goodreads profile](https://www.goodreads.com/user/show/199576984-amanpreet-singh)
+
+## Books Read
 
 <table>
   <tr>
