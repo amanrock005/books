@@ -708,7 +708,7 @@ so far, and many more are waiting for me in my [reading list](https://docs.googl
     </td>
     <td align="center" width="25%">
       <img src="booksImages/127.png" style="width:150px;height:200px;object-fit:cover;"><br>
-      <b>Belive in Yourself</b><br>
+      <b>Believe in Yourself</b><br>
       <sub>Dr. Joseph Murphy</sub>
     </td>
     <td></td>
