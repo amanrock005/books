@@ -711,6 +711,10 @@ so far, and many more are waiting for me in my [reading list](https://docs.googl
       <b>Believe in Yourself</b><br>
       <sub>Dr. Joseph Murphy</sub>
     </td>
-    <td></td>
+     <td align="center" width="25%">
+      <img src="booksImages/128.png" style="width:150px;height:200px;object-fit:cover;"><br>
+      <b>Thin Slices Of Anxiety</b><br>
+      <sub>Catherine Lepage</sub>
+    </td>
   </tr>
 </table>
